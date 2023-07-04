@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Bootstrap y tengo la certificación Az-900**
 
-- 💬 Pregúntame sobre **Html, css, js y bootstrap**
+- 💬 Pregúntame sobre **Html, php, css, js y bootstrap**
 
 - 📫 E-mail: **giovannagarciarubi@gmail.com**
 
